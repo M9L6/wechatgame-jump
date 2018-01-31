@@ -1,0 +1,2 @@
+# wechatgame-jump
+use threejs
